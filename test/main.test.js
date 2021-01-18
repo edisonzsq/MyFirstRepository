@@ -5,7 +5,7 @@ describe('Test', function(){
         assert.equal(1,1);
     })
 
-    it('should return error', function(){
-        assert.equal(1,2);
+    it('should pass the test', function(){
+        assert.equal(2,2);
     })
 });
